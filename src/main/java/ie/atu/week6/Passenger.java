@@ -1,5 +1,4 @@
-package ie.atu;
+package ie.atu.week6;
 
 public class Passenger {
-
 }
